@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOneSignal", "TestOneSignal\TestOneSignal.csproj", "{64F3BD44-E8E7-49E7-BB06-38A38ACD25FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOneSignal.App.Web", "TestOneSignal.App.Web\TestOneSignal.App.Web.csproj", "{5122EF38-ECDF-460D-9C2E-51F9669F9B13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{64F3BD44-E8E7-49E7-BB06-38A38ACD25FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{64F3BD44-E8E7-49E7-BB06-38A38ACD25FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{64F3BD44-E8E7-49E7-BB06-38A38ACD25FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{64F3BD44-E8E7-49E7-BB06-38A38ACD25FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5122EF38-ECDF-460D-9C2E-51F9669F9B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5122EF38-ECDF-460D-9C2E-51F9669F9B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5122EF38-ECDF-460D-9C2E-51F9669F9B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5122EF38-ECDF-460D-9C2E-51F9669F9B13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8D97F53E-00E5-4D0C-B0BA-18E8745062B3}
+		SolutionGuid = {3CC2DF55-B296-4F56-A09F-972B545B25CC}
 	EndGlobalSection
 EndGlobal
